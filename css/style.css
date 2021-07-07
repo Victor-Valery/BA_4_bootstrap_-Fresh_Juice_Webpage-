@@ -1,3 +1,7 @@
 body{
     background-image: linear-gradient(to right bottom, #e73827, #f85032d0, #f85032d0, #e73827);
+    font-family: 'Nunito', sans-serif;
+}
+.navbar-nav{
+    font-size: 1.25rem;
 }
