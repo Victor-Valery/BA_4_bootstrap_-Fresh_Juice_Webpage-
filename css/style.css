@@ -11,3 +11,12 @@ body {
 .navbar-nav {
   font-size: 1.25rem;
 }
+.w-100{
+  width: 75px !important;
+  height: 70vh;
+}
+.lead {
+  font-size: 1.5rem;
+}
+
+
