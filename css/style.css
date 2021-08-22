@@ -18,5 +18,11 @@ body {
 .lead {
   font-size: 1.5rem;
 }
+.carousel{
+  margin-top: 5%;
+}
+.carousel-item img {
+  filter: grayscale(10%)
+}
 
 
